@@ -8,18 +8,16 @@
   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-vdoing"></a>
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/stargazers"><img src="https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
 
-
-
 </p>
 
 <h2 align="center">vuepress-theme-vdoing</h2>
 
-* [文档 (国内源)](https://doc.xugaoyi.com/)
-* [文档 (github源)](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
-* [效果：Evan's blog](https://xugaoyi.com/)
-
+- [文档 (国内源)](https://doc.xugaoyi.com/)
+- [文档 (github 源)](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
+- [效果：Evan's blog](https://xugaoyi.com/)
 
 ## 介绍
+
 1. 这个主题的初衷是打造一个好用的、面向程序员的`知识管理工具`
 2. 轻松构建一个`结构化`的知识库，让你的知识海洋像一本本书一样清晰易读。
 3. 博客功能提供一种知识的`碎片化`形态，并支持个性化博客配置。
@@ -28,11 +26,11 @@
 [**更新日志**](https://github.com/xugaoyi/vuepress-theme-vdoing/releases)
 
 ## 这个主题可以做什么？
-* 案例1：[知识库兼博客站](https://xugaoyi.com/)
-* 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
-* 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
-* 案例4：[文档站](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
 
+- 案例 1：[知识库兼博客站](https://xugaoyi.com/)
+- 案例 2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
+- 案例 3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
+- 案例 4：[文档站](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
 
 ## 快速上手
 
@@ -49,16 +47,18 @@ npm install # or yarn install
 # develop
 npm run dev # or yarn dev
 ```
-## ⚡️未来...
+
+## ⚡️ 未来...
 
 ### [VuePress-next (VuePress v2.0)](https://github.com/vuepress/vuepress-next)
+
 > VuePress-next with the power of Vue 3.0 and TypeScript
 
 ### [VitePress](https://github.com/vuejs/vitepress)
 
-> * Uses Vue 3.
-> * Uses vite under the hood:
-> * Vue 3 tree-shaking + Rollup code splitting
+> - Uses Vue 3.
+> - Uses vite under the hood:
+> - Vue 3 tree-shaking + Rollup code splitting
 >
 > VuePress' little brother, built on top of vite. It's currently under a different name so that we don't over commit to the compatibility with the current VuePress ecosystem (mostly themes and plugins). We'll see how close we can get without compromising the design goals listed above. But the overall idea is that VitePress will have a drastically more minimal theming API (preferring JavaScript APIs instead of file layout conventions) and likely no plugins (all customization is done in themes).
 
@@ -70,7 +70,7 @@ npm run dev # or yarn dev
 
 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下*任意* 方式支持我：
 
-1. *Star* 并 分享这个项目 :rocket:
+1. _Star_ 并 分享这个项目 :rocket:
 2. 保留主题 footer(页脚) 的主题链接 :D
 3. 购买前端学习类 [电子书](https://github.com/xugaoyi/blog-gitalk-comment/wiki/Front-end-Study) Ⓤⓟ 💯
 4. 轻轻点击一次页面广告 ✨
@@ -78,23 +78,26 @@ npm run dev # or yarn dev
 
 谢谢！ :heart:
 
-| 微信赞赏 | 微信 | 支付宝 |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150>| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
+|                                                  微信赞赏                                                  |                                                       微信                                                        |                                                      支付宝                                                       |
+| :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
 
-二维码没有正常显示？点 [这里😎](https://doc.xugaoyi.com/pages/1b12ed/)
+二维码没有正常显示？点 [这里 😎](https://doc.xugaoyi.com/pages/1b12ed/)
 
 ## 致谢
+
 :heart:感谢支持这个项目的朋友
 
 :heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing/graphs/contributors)
 
-## Vdoing官方交流群
+## Vdoing 官方交流群
+
 群号：694387113
 
 <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
 
 ## 许可证
+
 [MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
-Copyright (c) 2019-present Evan Xu
+Copyright (c) 2019-present conanan
