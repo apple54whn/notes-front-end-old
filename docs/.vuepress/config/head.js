@@ -20,6 +20,6 @@ module.exports = [
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
     },
   ], // 网站关联Google AdSense 与 html格式广告支持
-  ['script', { src: 'https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js' }],
+  // ['script', { src: 'https://cdn.jsdelivr.net/npm/vue@2.6.12' }],// 使用后tab锚点有bug
   // ['script', { src: 'https://unpkg.com/vue@next' }],// vue3 报错 Uncaught TypeError: window.Vue.use is not a function
 ]
