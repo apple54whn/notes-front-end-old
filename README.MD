@@ -96,7 +96,7 @@ npm run dev # or yarn dev
 
 <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
 
-## 许可证 1
+## 许可证 12
 
 [MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
