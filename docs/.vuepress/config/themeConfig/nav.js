@@ -90,9 +90,10 @@ module.exports = [
     items: [
       { text: 'H5&CSS3', link: '/pages/fa842a/' },
       { text: 'JS', link: '/pages/84d48a/' },
-      { text: 'NodeJS', link: '/pages/b62d08/' },
-      { text: 'Vue2.x', link: '/pages/b41819/' },
-      { text: 'Vue3.x', link: '/pages/347f26/' },
+      { text: 'Node', link: '/pages/b62d08/' },
+      { text: 'Webpack', link: '/pages/6f1f8f/' },
+      { text: 'Vue2', link: '/pages/b41819/' },
+      { text: 'Vue3', link: '/pages/347f26/' },
       { text: '微信小程序', link: '/pages/00b1d8/' },
       { text: 'Andorid', link: '' },
       { text: 'Flutter', link: '' },
